@@ -1,10 +1,19 @@
-# Prompt Sathi — a guided work skill for ChatGPT and Claude
+# Prompt Sathi — Agent Skill for ChatGPT, Claude, and YouTube SEO
 
 English · [Roman Urdu](README.roman-urdu.md)
 
 **Apna kaam jaisay bolte ho, waisay likho.** Prompt Sathi asks for missing details, proposes the next step, and waits for approval before doing the work. It adapts to feedback in English, Urdu, or Roman Urdu. Ask for “prompt only” to get a copyable prompt.
 
 ## Try it
+
+For YouTube creators, one workflow carries your channel, audience, language, and upload schedule through four steps.
+
+1. **Channel audit** identifies visible packaging and publishing issues.
+2. **Competitor research** compares similar uploads and turns evidence into an original video idea.
+3. **YouTube SEO and packaging** pairs a search-focused title with a thumbnail and description opening.
+4. **Script and recording plan** turns the approved idea into a hook, script, and realistic recording timeline.
+
+In a live ChatGPT test with sample channel data, Prompt Sathi calculated a competitor outlier at 4× the sample median, asked for idea approval, and reused the same brief for a five-minute Roman Urdu recording draft. [Live test conversation](https://chatgpt.com/uc/6aee31b5-5028-83ea-bd89-a8289f9860f6)
 
 > Use Prompt Sathi. Meri YouTube video ka SEO aur thumbnail improve karna hai.
 
