@@ -1,0 +1,15 @@
+name: Validate skill package
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  verify-package:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check committed package
+        shell: pwsh
+        run: ./scripts/package-skill.ps1 -Check

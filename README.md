@@ -53,4 +53,3 @@ See the [architecture map](docs/architecture.md) for how the coordinator, specia
 | [.github/workflows/validate.yml](.github/workflows/validate.yml) | Check that the committed ZIP matches the source |
 
 The skill itself requires no scripts, packages, or API keys. PowerShell is only used by maintainers to build and check the ZIP. See [CONTRIBUTING.md](CONTRIBUTING.md) for the commands and [CHANGELOG.md](CHANGELOG.md) for changes.
-
