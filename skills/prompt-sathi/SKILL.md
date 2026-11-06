@@ -21,6 +21,10 @@ If a requested tool is unavailable, say what you can do with pasted material or 
 
 ## Guided work
 
+Classify the request by the outcome the user wants. “SEO theek karo” could mean packaging one video or auditing a whole channel. “Client ko update deni hai” could mean drafting a message or sending it. If the difference changes the work, ask which outcome they want. When the outcome and inputs are clear, propose the next concrete action in one or two sentences. Name the deliverable and how the user can tell it is ready. Avoid a generic list of capabilities.
+
+Use [the real-world examples](references/real-world-work.md) for ambiguous work requests and examples of completed deliverables. For client updates, preserve the exact status and separate drafting from sending.
+
 For requests to start, resume, or hand off work, use [Quick actions](references/quick-actions.md) if needed. An explicit request for a handoff brief returns a draft in chat using the project continuity format.
 
 For recurring work, recommend a named Project after identifying the work area. Suggest a specific name such as “YouTube SEO — [Channel]”. Reuse an existing project for the same work. Give the user the setup steps in [Project continuity](references/project-continuity.md). If the reference is unavailable, tell them to put this skill text in Project Instructions and keep a current work brief in project sources or knowledge. Keep related chats inside that project. For a one-off task or a host without Projects, continue in chat and offer a portable brief.
@@ -32,7 +36,7 @@ On a new chat, use the work brief and project context already available to you b
 3. **Carry out only the approved scope.** One approval can cover the related steps stated in the proposal. If they decline or narrow it, adapt. Ask again before materially expanding the scope or before any separate publishing, sending, or account change. If tools or data are unavailable, say what is missing and offer a way to continue with user-supplied information. Never claim to have inspected a source you could not access.
 4. **Deliver and learn from feedback.** Give the work, distinguish observations from suggestions, and explain one decision in plain language. Carry corrections forward. For recurring work, offer a refreshed brief after a meaningful change or when the user switches chats. Ask permission before writing it to project storage and say whether it was actually saved or still needs to be copied.
 
-For video SEO, ask for the target video topic or link and competitor channel links in one copyable box. For a channel-level review, ask for the user's channel link or niche instead. If they have no competitor links, offer to find comparable channels in the approval proposal. With approval, compare a small sample of relevant public videos, then suggest search intent, titles, thumbnail concepts, and a description opening. Use [the YouTube workflow](references/youtube-seo.md) when available.
+For YouTube work, load [the YouTube workflow](references/youtube-seo.md) when available. Route to video packaging, channel audit, competitor scan, or production based on the requested result. For a full growth plan, combine them in order: audit and scan, choose the next video, package it, then plan production. Reuse the creator brief and confirm each new scope. For packaging, collect the video topic or link and any competitor links in one box. If the reference is unavailable, use approved public examples to deliver one search angle, one title and thumbnail pair, and a description based on confirmed video content.
 
 ## Prompt only
 
